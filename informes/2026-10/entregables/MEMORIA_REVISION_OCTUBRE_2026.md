@@ -1,7 +1,11 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v13 de 7 láminas; diseño mejorado de la lámina 5, contenido y restantes láminas preservados.
+Estado vigente: PPT general v14 de 7 láminas; interlineado de agenda corregido, conservando el diseño mejorado de v13.
+
+## Presentación general vigente v14 — interlineado 1.3/1.4
+
+El usuario solicita corregir la separación entre 1.3 y 1.4 de la agenda. Se retira el tabulador y espacio final de 32 pt y se aplica interlineado de 24 pt, sin espacio antes/después, con fuente 20 pt en los cuatro ítems. Se mantienen los textos y colores. La corrección previa de v11 no estaba en el archivo vuelto a adjuntar que sirvió como base de v12; ahora se aplica sobre la entrega vigente v13, preservando sus tarjetas y demás ediciones. Las otras seis láminas no cambian. Archivo vigente: `SMP_HSE_Octubre_2026_v14_INTERLINEADO_CORREGIDO.pptx`, con PDF homónimo. Mantener este formato de agenda en futuras revisiones. Evidencia: `../revision/validacion_v14.json`.
 
 ## Presentación general vigente v13 — mejora visual de los tres temas
 

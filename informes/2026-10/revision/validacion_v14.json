@@ -1,0 +1,16 @@
+{
+  "version": "v14",
+  "file": "SMP_HSE_Octubre_2026_v14_INTERLINEADO_CORREGIDO.pptx",
+  "changed_slide": 2,
+  "correction": "Interlineado uniforme de 24 pt en 1.1–1.4; eliminación de tabulador y espacio final de 32 pt",
+  "other_six_slides_unchanged": true,
+  "enhanced_highlights_design_retained": true,
+  "slides": 7,
+  "current_pptx_sha256": "61b8d2413f8e4859c66f6ba68a972387c2e5709fe03969e6f143c23cf8eaa8c2",
+  "pdf_line_spacing_pt": [
+    24.01,
+    24.01,
+    24.01
+  ],
+  "pdf_pages": 7
+}

@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v13, basada en el último archivo adjunto; 7 láminas, con The End al final. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v14, basada en el último archivo adjunto; 7 láminas, con The End al final. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v13, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v14, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v13](entregables/SMP_HSE_Octubre_2026_v13_DISENO_MEJORADO.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v13_DISENO_MEJORADO.pdf)
+- [PowerPoint editable v14](entregables/SMP_HSE_Octubre_2026_v14_INTERLINEADO_CORREGIDO.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v14_INTERLINEADO_CORREGIDO.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -80,3 +80,7 @@ Se usa como base el último archivo del usuario (7 láminas). En los cinco gráf
 Se rediseña solo la lámina 5: tres tarjetas con iconos editables, títulos breves y 100% destacado. Se preservan literalmente las tres frases, el formato 4:3, los colores y el encabezado/pie. No se agregan fotos ni hechos; las otras seis láminas y todas las notas permanecen iguales.
 
 ![Diseño mejorado de los temas generales de seguridad v13](entregables/VISTA_DISENO_TEMAS_v13.png)
+
+## Cambio vigente v14
+
+Interlineado uniforme entre los cuatro ítems de agenda, incluido 1.3–1.4. Se elimina el tabulador y espacio final de 32 pt. Se conserva la v13 como base: tarjetas de seguridad, gráficos solo agosto/septiembre y resto de contenido sin cambios.

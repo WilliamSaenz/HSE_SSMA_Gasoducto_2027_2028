@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v15, basada en el último archivo adjunto; 7 láminas, con The End al final. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v16, con 8 láminas; registro fotográfico de septiembre antepenúltimo, seguido por permisos y cierre. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v15, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v16, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v15](entregables/SMP_HSE_Octubre_2026_v15_PERMISOS_AMBIENTALES.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v15_PERMISOS_AMBIENTALES.pdf)
+- [PowerPoint editable v16](entregables/SMP_HSE_Octubre_2026_v16_FOTOS_E_INDICE.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v16_FOTOS_E_INDICE.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -90,3 +90,11 @@ Interlineado uniforme entre los cuatro ítems de agenda, incluido 1.3–1.4. Se 
 La lámina 6 de propuesta de helicóptero se reemplaza por dos tarjetas de permisos ambientales en inglés, con emojis 💧 y 🏭 y el estilo de la lámina 5. Se incluyen Neuquén/Serman/SSRH y Allen/adenda aprobada/Stack Frío pendiente. El resto de las láminas permanece sin cambios. Las estadísticas ambientales no se reincorporan.
 
 ![Permisos ambientales en inglés con emojis v15](entregables/VISTA_PERMISOS_AMBIENTALES_v15.png)
+
+## Cambio vigente v16
+
+Se importa la lámina Updates & Photo Log del archivo mensual adjunto, con sus seis fotos originales y fecha septiembre 2026, como antepenúltima (6 de 8). Se actualiza el índice a las secciones presentes y el encabezado de novedades de seguridad pasa a 1.2. Se conservan datos, tarjetas y cierre.
+
+![Índice actualizado v16](entregables/VISTA_INDICE_v16.png)
+
+![Registro fotográfico original de septiembre v16](entregables/VISTA_REGISTRO_FOTOS_v16.png)

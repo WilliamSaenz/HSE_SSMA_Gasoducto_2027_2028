@@ -1,0 +1,25 @@
+{
+  "version": "v16",
+  "file": "SMP_HSE_Octubre_2026_v16_FOTOS_E_INDICE.pptx",
+  "slides": 8,
+  "photo_slide_position": 6,
+  "photo_slide_is_third_from_last": true,
+  "followed_by": [
+    "Environmental Update",
+    "The End"
+  ],
+  "source_slide": "Monthly report September 2026, slide 3 Updates & Photo Log",
+  "photo_count": 6,
+  "all_six_photo_blobs_preserved_exactly": true,
+  "source_captions_and_september_date_retained": true,
+  "agenda_updated_to_actual_sections": true,
+  "agenda_line_spacing_pt": 24,
+  "safety_highlights_header_number": "1.2",
+  "chart_and_workbook_parts_unchanged": true,
+  "current_pptx_sha256": "866b10d0b794c90d5fa14d5f3cf44492a31309139d1f6e45bc6a65b31936167f",
+  "issued": false,
+  "pdf_pages": 8,
+  "pdf_photo_log_third_from_last_verified": true,
+  "agenda_environment_subitem_top_inches": 4.4,
+  "agenda_no_heading_overlap_in_pdf": true
+}

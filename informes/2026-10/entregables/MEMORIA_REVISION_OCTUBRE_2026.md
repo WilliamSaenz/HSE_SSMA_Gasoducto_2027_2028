@@ -1,7 +1,15 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v15 de 7 láminas; propuesta de helicóptero sustituida por permisos ambientales en inglés con emojis, según nuevo pedido.
+Estado vigente: PPT general v16 de 8 láminas; registro fotográfico de septiembre antepenúltimo, índice actualizado.
+
+## Presentación general vigente v16 — registro fotográfico e índice
+
+El usuario adjunta Monthly_HSE_Partners_Report_September_2026_EN 1.pptx y pide insertar la lámina del pantallazo como antepenúltima, autorizando actualizar el índice. Se importa únicamente la lámina 3 Updates & Photo Log, con sus seis fotografías JPEG originales, encuadres, posiciones y leyendas. Se conserva septiembre de 2026; no se cambia a octubre sin evidencia. Se preserva el archivo fuente completo sin modificaciones en original.
+
+La nueva posición es 6 de 8, seguida por permisos ambientales y The End. El índice refleja 1.1 HSE Indicators, 1.2 Safety Highlights, 1.3 Updates & Photo Log y 2.0 Environmental Update bajo 2 > PERMITS. Se retiran del índice Schedule, Project's Key Milestones, Project Progress y Helicopter Service, que no tienen sección en la entrega actual. Se mantiene el interlineado uniforme de 24 pt; el encabezado de Safety Highlights cambia a 1.2 para corresponder al índice. Las leyendas de pie se renumeran cuando corresponde. Estadísticas, gráficos y libros permanecen sin cambios.
+
+Archivo: `SMP_HSE_Octubre_2026_v16_FOTOS_E_INDICE.pptx`, con PDF homónimo. Verificación de igualdad exacta de los bytes de las seis fotos e inserción antepenúltima en `../revision/validacion_v16.json`.
 
 ## Presentación general vigente v15 — reemplazo de helicóptero por permisos
 

@@ -3,6 +3,10 @@
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
 Estado vigente: PPT general v16 de 8 láminas; registro fotográfico de septiembre antepenúltimo, índice actualizado.
 
+## Dinámica aprobada para próximos meses
+
+El 27/10/2026 William aprobó el resultado y pidió guardar esta lógica y dinámica para futuras presentaciones de socios. Se documenta en [la guía reutilizable](../../GUIA_PRESENTACIONES_SOCIOS.md), enlazada desde el README e indicada en AGENTS.md para futuras sesiones. Se mantiene la v16 como referencia visual, separando las preferencias permanentes de los datos y decisiones específicos de octubre. No se modifica la presentación aprobada.
+
 ## Presentación general vigente v16 — registro fotográfico e índice
 
 El usuario adjunta Monthly_HSE_Partners_Report_September_2026_EN 1.pptx y pide insertar la lámina del pantallazo como antepenúltima, autorizando actualizar el índice. Se importa únicamente la lámina 3 Updates & Photo Log, con sus seis fotografías JPEG originales, encuadres, posiciones y leyendas. Se conserva septiembre de 2026; no se cambia a octubre sin evidencia. Se preserva el archivo fuente completo sin modificaciones en original.

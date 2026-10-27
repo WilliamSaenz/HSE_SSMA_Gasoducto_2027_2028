@@ -1,6 +1,8 @@
 # HSE_SSMA_Gasoducto_2027_2028
 KPIs_Plantillas_PPT
 
+- [Guía para las próximas presentaciones mensuales de socios](informes/GUIA_PRESENTACIONES_SOCIOS.md)
+
 ## Informe de octubre 2026
 
 - [Descargar PowerPoint v16](informes/2026-10/entregables/SMP_HSE_Octubre_2026_v16_FOTOS_E_INDICE.pptx?raw=true)

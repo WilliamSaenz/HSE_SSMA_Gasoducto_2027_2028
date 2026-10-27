@@ -1,0 +1,331 @@
+[
+  {
+    "slide": 1,
+    "content": [
+      "",
+      "OCTOBER 28TH, 2026",
+      "San Matías Pipeline\nTechnical Committee Meeting N°5"
+    ]
+  },
+  {
+    "slide": 2,
+    "content": [
+      "",
+      "AGENDA",
+      "1 > DEDICATED GAS PIPELINE UPDATE ",
+      "2 > PERMITS",
+      "1.1 > HSE Indicators\n1.2 > Schedule\n1.3 > Project’s Key Milestones\n1.4 > Project Progress\t ",
+      "Agenda",
+      "CONFIDENTIAL",
+      "3 > HELICOPTER SERVICE (Update)"
+    ]
+  },
+  {
+    "slide": 3,
+    "content": [
+      "",
+      "1.1 > DEDICATED GAS PIPELINE UPDATE > HSE Indicators\n",
+      "CONFIDENTIAL",
+      "Road Traffic Accident Drill conducted on National Route N3.\nWork Programs implemented for the transportation of pipelines from the port to the construction site.",
+      "October 2026 · cut-off Oct 26 · consolidated Compressor Plant (CP) + Pipeline · Oct-26 figures pending data load",
+      "",
+      "",
+      "TRICF Frequency",
+      "0.00",
+      "Cum. Aug–Sep · target 2.35\u000bOct-26 cum.: pending",
+      "",
+      "",
+      "TVCR Frequency",
+      "0.00",
+      "Cum. Aug–Sep · target 0.79\u000bOct-26 cum.: pending",
+      "Cum. Aug–Sep 2026 · Oct pending",
+      "Other KPIs · October (cut-off Oct 26)",
+      [
+        [
+          "KPI",
+          "CP + Pipeline"
+        ],
+        [
+          "DAFWCF (target 0)",
+          "Pending"
+        ],
+        [
+          "TRICF (target 2.35 – 3.00 events)",
+          "Pending"
+        ],
+        [
+          "TVCR (Target 0.79 – 2.00 events)",
+          "Pending"
+        ],
+        [
+          "FAC (reporting)",
+          "Pending"
+        ]
+      ],
+      "TRICF · cases and frequency × 10^6 /HHT",
+      {
+        "chart": "/ppt/charts/chart1.xml",
+        "categories": [
+          "August · 0 cases",
+          "September · 0 cases",
+          "October · pending"
+        ],
+        "series": [
+          {
+            "name": "Cases (left axis)",
+            "values": [
+              0.0,
+              0.0,
+              null
+            ]
+          },
+          {
+            "name": "Frequency (right axis)",
+            "values": [
+              0.0,
+              0.0,
+              null
+            ]
+          },
+          {
+            "name": "Target (right axis)",
+            "values": [
+              2.35,
+              2.35,
+              2.35
+            ]
+          }
+        ]
+      },
+      "TVCR · cases and frequency × 10^6 /km travelled",
+      {
+        "chart": "/ppt/charts/chart2.xml",
+        "categories": [
+          "August · 0 cases",
+          "September · 0 cases",
+          "October · pending"
+        ],
+        "series": [
+          {
+            "name": "Cases (left axis)",
+            "values": [
+              0.0,
+              0.0,
+              null
+            ]
+          },
+          {
+            "name": "Frequency (right axis)",
+            "values": [
+              0.0,
+              0.0,
+              null
+            ]
+          },
+          {
+            "name": "Target (right axis)",
+            "values": [
+              0.79,
+              0.79,
+              0.79
+            ]
+          }
+        ]
+      },
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "462",
+      "DAFWCF: lost-time cases × 10^6/ HHT\nTRICF: recordable cases (FAT + DAFWC + MTC + RWC) × 10^6 HHT \nTVCR: Total Number of Work-Related Vehicle Accidents per Million Kilometres Travelled (× 10^6 / km travelled)"
+    ],
+    "notes": "HSE INDICATORS - TALKING POINTS (cut-off Oct 26, 2026; Oct figures pending data load)\n\nDAFWCF - Lost-time case frequency. Lost-time cases (DAFWC) x 10^6 / man-hours worked (HHT). Target 0. Aug-Sep: 0.\nTRICF - Total recordable case frequency. (FAT + DAFWC + MTC + RWC) x 10^6 / HHT. Target 2.35 (range 2.35-3.00). Aug-Sep: 0.00, within target.\nTVCR - Total vehicle accident rate. Work-related vehicle accidents x 10^6 / km travelled. Target 0.79 (range 0.79-2.00). Aug-Sep: 0.00, within target.\nFAC - First aid cases. Reported for visibility, no target. Aug-Sep: 0.\nHHT - Man-hours worked (denominator of TRICF/DAFWCF). Km driven - denominator of TVCR. Total workers - headcount in the month.\n\nHow to read the charts: bars = number of cases (left axis); green line = frequency (right axis); red dashed line = target (right axis). Frequency below the dashed line means the indicator is within target.\nPyramid (cumulative since Aug-26): FAT / DAFWC (top), MTC / RWC, FAC, incidents, and safety observations at the base. A wide base with an empty top is the expected profile: many proactive observations, no injuries.\nPending for Oct-26: all values marked in red must be loaded in the Compressor Plant and Pipeline monthly workbooks before issuing."
+  },
+  {
+    "slide": 4,
+    "content": [
+      "",
+      "1.1 > DEDICATED GAS PIPELINE UPDATE > HSE Indicators\n",
+      "CONFIDENTIAL",
+      "MANAGEMENT SAFETY WALKS",
+      {
+        "chart": "/ppt/charts/chart3.xml",
+        "categories": [
+          "Aug · total 2",
+          "Sep · total 7",
+          "Oct · pending"
+        ],
+        "series": [
+          {
+            "name": "Monthly total",
+            "values": [
+              2.0,
+              7.0,
+              null
+            ]
+          },
+          {
+            "name": "Cumulative total",
+            "values": [
+              2.0,
+              9.0,
+              null
+            ]
+          }
+        ]
+      },
+      "SAFETY CAMPAIGNS",
+      {
+        "chart": "/ppt/charts/chart4.xml",
+        "categories": [
+          "Aug · total 2",
+          "Sep · total 4",
+          "Oct · pending"
+        ],
+        "series": [
+          {
+            "name": "Monthly total",
+            "values": [
+              2.0,
+              4.0,
+              null
+            ]
+          },
+          {
+            "name": "Cumulative total",
+            "values": [
+              2.0,
+              6.0,
+              null
+            ]
+          }
+        ]
+      },
+      "DRILLS · target 100%",
+      {
+        "chart": "/ppt/charts/chart5.xml",
+        "categories": [
+          "Aug · total 2",
+          "Sep · total 2",
+          "Oct · pending"
+        ],
+        "series": [
+          {
+            "name": "Monthly total",
+            "values": [
+              2.0,
+              2.0,
+              null
+            ]
+          },
+          {
+            "name": "Cumulative total",
+            "values": [
+              2.0,
+              4.0,
+              null
+            ]
+          }
+        ]
+      },
+      "OBSERVATIONS (OCS)",
+      {
+        "chart": "/ppt/charts/chart6.xml",
+        "categories": [
+          "Aug · total 167",
+          "Sep · total 295",
+          "Oct · pending"
+        ],
+        "series": [
+          {
+            "name": "Monthly total",
+            "values": [
+              167.0,
+              295.0,
+              null
+            ]
+          },
+          {
+            "name": "Cumulative total",
+            "values": [
+              167.0,
+              462.0,
+              null
+            ]
+          }
+        ]
+      },
+      "TRAINING HOURS (HHS)",
+      {
+        "chart": "/ppt/charts/chart7.xml",
+        "categories": [
+          "Aug · total 1,853",
+          "Sep · total 1,796",
+          "Oct · pending"
+        ],
+        "series": [
+          {
+            "name": "Monthly total",
+            "values": [
+              1853.0,
+              1796.0,
+              null
+            ]
+          },
+          {
+            "name": "Cumulative total",
+            "values": [
+              1853.0,
+              3649.0,
+              null
+            ]
+          }
+        ]
+      },
+      "TRAINING · OCTOBER",
+      "",
+      "",
+      "Training % vs HHT",
+      "Pending",
+      "HHS / HHT · CP + Pipeline · target ≥ 1.00%"
+    ],
+    "notes": "PROACTIVE ACTIONS - TALKING POINTS\nManagement safety walks, safety campaigns and drills: bars = monthly total, line = cumulative since Aug-26. Drills target: 100% of those programmed.\nObservations (OCS): safe-behaviour observations recorded in the month. Training hours (HHS): safety training man-hours; the Training % vs HHT card shows HHS / HHT, target >= 1.00%.\nPending for Oct-26: October bars and the training % card are marked in red until the data is loaded."
+  },
+  {
+    "slide": 5,
+    "content": [
+      "5",
+      "",
+      "CONFIDENTIAL",
+      "3.0 > HELICOPTER SERVICE > Proposal\n",
+      "Background: \nVaca Muerta upstream major companies (including PAE, YPF & Pampa) have a contract with MODENA for the provision of its services which consists of having a helicopter available for use in the event of a medical emergency.\nVista holds and manages a contract with MODENA covering aeromedical evacuation services for operators in Neuquén.\nVMOS has a contract in force with MODENA for such services. The service originated as an ad hoc decision by YPF following an Emergency Response Risk Analysis. \n\nGeographic Dispersion\nSMP pipeline route extends over 473 km along 2 provinces with sections located far away from high-complexity medical centres  Ground transportation may compromise the critical response time window during an emergency.\n\nLabour Context\nImpact of the VMOS precedent in the event of an accident requiring this service \nUOCRA agreement does not “explicitly” require this service for VMOS or SMP.\n\nActual Use, No Saturation\nExisting regional contracts (Neuquén and VMOS) recorded 40 to 50 emergencies over 3 years (approximately 1 to 2 per month), indicating there is operational capacity to include the SMP route.\n\nProposal to be discussed with Shareholders:\nGiven the project’s extensive geographical footprint which includes remote areas with limited or no access to adequate medical infrastructure, it is recommended to have a helicopter available for emergency medical evacuation, particularly for incidents requiring medium- or high-complexity medical care.",
+      "",
+      ""
+    ]
+  },
+  {
+    "slide": 6,
+    "content": [
+      "Progress to date (cut-off Oct 26)\n[Pending · YPF to provide status, milestones reached and dates]",
+      "Company auditing the service\n[Pending · YPF to name the company that audits the service]",
+      "Option to add SESA\n[Pending · YPF to confirm whether SESA can be added to the service]",
+      "5",
+      "",
+      "CONFIDENTIAL",
+      "3.0 > HELICOPTER SERVICE > Progress update\n"
+    ]
+  },
+  {
+    "slide": 7,
+    "content": [
+      "Progress to date (cut-off Oct 26)\n[Pending · YPF to provide status, milestones reached and dates]",
+      "Company auditing the service\n[Pending · YPF to name the company that audits the service]",
+      "Option to add SESA\n[Pending · YPF to confirm whether SESA can be added to the service]",
+      "5",
+      "",
+      "CONFIDENTIAL",
+      "3.0 > HELICOPTER SERVICE > Progress update\n"
+    ]
+  }
+]

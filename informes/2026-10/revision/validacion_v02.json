@@ -1,0 +1,62 @@
+{
+  "version": "v02",
+  "slides": 9,
+  "source_charts_unchanged": 7,
+  "source_embedded_workbooks_unchanged": 7,
+  "source_original_sha256": "59f93d56a512431a8b70cac48389b5db496917b607a1491eaf894e6799684ab7",
+  "environment_source": "User screenshot; reconstructed as editable charts",
+  "new_slides": {
+    "5": "Safety October photos and highlights",
+    "6": "Environment historical graphs from screenshot",
+    "7": "Environment October photos and highlights"
+  },
+  "number_format_only": [
+    {
+      "source_slide": 3,
+      "before": "October 2026 · cut-off Oct 26 · consolidated Compressor Plant (CP) + Pipeline",
+      "after": "October 2026 · cut-off Oct 27 · consolidated Compressor Plant (CP) + Pipeline"
+    },
+    {
+      "source_slide": 3,
+      "before": "0.00",
+      "after": "0"
+    },
+    {
+      "source_slide": 3,
+      "before": "0.00",
+      "after": "0"
+    },
+    {
+      "source_slide": 3,
+      "before": "Other KPIs · October (cut-off Oct 26)",
+      "after": "Other KPIs · October (cut-off Oct 27)"
+    },
+    {
+      "source_slide": 3,
+      "before": "TRICF (target 2.35 – 3.00 events)",
+      "after": "TRICF (target 2.35 – 3 events)"
+    },
+    {
+      "source_slide": 3,
+      "before": "TVCR (Target 0.79 – 2.00 events)",
+      "after": "TVCR (Target 0.79 – 2 events)"
+    },
+    {
+      "source_slide": 4,
+      "before": "HHS / HHT · CP + Pipeline · target ≥ 1.00%",
+      "after": "HHS / HHT · CP + Pipeline · target ≥ 1%"
+    },
+    {
+      "source_slide": 6,
+      "before": "Progress to date (cut-off Oct 26)",
+      "after": "Progress to date (cut-off Oct 27)"
+    }
+  ],
+  "photos": "No real photos supplied; placeholders only",
+  "relevant_topics": "Awaited from Leandro Doglio",
+  "issued": false,
+  "pdf_pages": 9,
+  "visual_review": "Revisadas 9 láminas; corregido solapamiento del pie de la lámina 3",
+  "numeric_display": "3.00→3; 2.00→2; 0.00→0; 1.00%→1%; 2.35 y 0.79 preservados",
+  "current_pptx_sha256": "6a609ebebaef33e070ea55a4c46d1a0eb3504c7145012adcd16d6d67b4e73736"
+}

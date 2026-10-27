@@ -3,6 +3,10 @@
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
 Estado vigente: borrador v05, basado en el último PPT del usuario; orden corregido, ambiente completo sin recuadros de fotos y capacitación 2.87%.
 
+## Lámina ambiental final independiente
+
+Se entrega `SMP_Medio_Ambiente_Lamina_Final_27Oct2026.pptx`, una lámina editable, y su PDF. El texto visible explicita que la definición sobre el cold vent stack (Stack Frío) sigue pendiente y que SMP debe presentar el análisis comparativo antorcha/venteo frío ante la autoridad. Neuquén mantiene pendiente la respuesta y presentación del Estudio de Riesgo Hídrico con Serman para avanzar en la obtención del permiso. Sin recuadros de fotos ni datos nuevos. La lámina 7 de la PPT completa v05 queda sincronizada. La condición de «final» aplica a esta lámina ambiental; seguridad y helicóptero del informe completo siguen pendientes.
+
 ## Entrega vigente v05 — revisión sobre el archivo adjunto del usuario
 
 La v05 se prepara a partir del último PPT reenviado por el usuario (SHA-256 `241a86a6d06153b9f449f571078a3e0c2cf4d23c90ac18565fb97e3d5e3677a7`), preservado como `../original/2026-10-27_PPT_usuario_base_revision.pptx`. Es la entrega vigente; los apartados de versiones anteriores son antecedentes.

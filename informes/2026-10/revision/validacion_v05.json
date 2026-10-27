@@ -11,8 +11,10 @@
   "order": "seguridad gráficos → seguridad novedades → ambiente gráficos → ambiente novedades",
   "source_user_file_unchanged": true,
   "current_pptx_filename": "SMP_HSE_Octubre_2026_v05_REVISADA.pptx",
-  "current_pptx_sha256": "210b9ad99fdca6e4ed74bec0f7dc84ea4c1e414a64cf37b423a9c2fc1540b0ae",
+  "current_pptx_sha256": "729cc2f5dd321e6d5e30fbf255eb968fe2723ea2fe25ad7d4171ce0c6634a218",
   "issued": false,
   "pdf_pages": 9,
-  "visual_preview_file": "VISTA_AMBIENTE_v05.png"
+  "visual_preview_file": "VISTA_AMBIENTE_v05.png",
+  "environment_stack_frio_explicit": true,
+  "environment_single_slide_file": "SMP_Medio_Ambiente_Lamina_Final_27Oct2026.pptx"
 }

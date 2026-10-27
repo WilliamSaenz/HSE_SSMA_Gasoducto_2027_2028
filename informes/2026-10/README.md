@@ -30,3 +30,10 @@ Se mantiene la referencia estadística al 30/09 y todos los gráficos sin cambio
 ## Revisión v05 sobre el último archivo del usuario
 
 Se corrigió el orden para agrupar seguridad y ambiente con sus novedades. La lámina ambiental incorpora los dos temas del correo de Nicolás y elimina los recuadros opcionales de fotos. Se conserva 2.87% y todos los gráficos/datos del archivo adjunto. Las fotos y novedades de seguridad y la actualización del helicóptero siguen pendientes.
+
+## Lámina ambiental final independiente
+
+- [PowerPoint de una lámina](entregables/SMP_Medio_Ambiente_Lamina_Final_27Oct2026.pptx?raw=true)
+- [PDF de la lámina](entregables/SMP_Medio_Ambiente_Lamina_Final_27Oct2026.pdf)
+
+Incluye expresamente el pendiente de Stack Frío y el permiso hídrico de Neuquén. La PPT completa v05 también queda actualizada.

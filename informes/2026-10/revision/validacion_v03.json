@@ -1,0 +1,73 @@
+{
+  "version": "v03",
+  "slides": 9,
+  "source_charts_unchanged": 7,
+  "source_embedded_workbooks_unchanged": 7,
+  "source_original_sha256": "59f93d56a512431a8b70cac48389b5db496917b607a1491eaf894e6799684ab7",
+  "environment_source": "User screenshot; reconstructed as editable charts",
+  "new_slides": {
+    "5": "Safety October photos and highlights",
+    "6": "Environment historical graphs from screenshot",
+    "7": "Environment October photos and highlights"
+  },
+  "number_format_only": [
+    {
+      "source_slide": 3,
+      "before": "October 2026 · cut-off Oct 26 · consolidated Compressor Plant (CP) + Pipeline",
+      "after": "October 2026 · cut-off Oct 27 · consolidated Compressor Plant (CP) + Pipeline"
+    },
+    {
+      "source_slide": 3,
+      "before": "0.00",
+      "after": "0"
+    },
+    {
+      "source_slide": 3,
+      "before": "0.00",
+      "after": "0"
+    },
+    {
+      "source_slide": 3,
+      "before": "Other KPIs · October (cut-off Oct 26)",
+      "after": "Other KPIs · October (cut-off Oct 27)"
+    },
+    {
+      "source_slide": 3,
+      "before": "TRICF (target 2.35 – 3.00 events)",
+      "after": "TRICF (target 2.35 – 3 events)"
+    },
+    {
+      "source_slide": 3,
+      "before": "TVCR (Target 0.79 – 2.00 events)",
+      "after": "TVCR (Target 0.79 – 2 events)"
+    },
+    {
+      "source_slide": 4,
+      "before": "HHS / HHT · CP + Pipeline · target ≥ 1.00%",
+      "after": "HHS / HHT · CP + Pipeline · target ≥ 1%"
+    },
+    {
+      "source_slide": 6,
+      "before": "Progress to date (cut-off Oct 26)",
+      "after": "Progress to date (cut-off Oct 27)"
+    }
+  ],
+  "photos": "No real photos supplied; placeholders only",
+  "relevant_topics": "Awaited from Leandro Doglio",
+  "issued": false,
+  "pdf_pages": 9,
+  "visual_review": "PDF v03: recorte de tarjeta de lámina 4 contiene 2.87%; no contiene Pending.",
+  "numeric_display": "3.00→3; 2.00→2; 0.00→0; 1.00%→1%; 2.35 y 0.79 preservados",
+  "current_pptx_sha256": "2b56a76245779ebc7989ccd286d4bb291af6f79a85e22bc86c1c05fa1673e595",
+  "training_card": {
+    "slide": 4,
+    "value": "2.87%",
+    "source": "Segundo pantallazo indicado expresamente por el usuario",
+    "target": "≥1%",
+    "color": "013EF5",
+    "recalculated": false
+  },
+  "current_pptx_filename": "SMP_HSE_Octubre_2026_v03_CAPACITACION_2_87.pptx",
+  "delivery_fix": "Nuevo nombre de archivo; comprobar tarjeta renderizada y recuperación remota tras publicación.",
+  "visual_proof": "VERIFICACION_CAPACITACION_2_87_v03.png"
+}

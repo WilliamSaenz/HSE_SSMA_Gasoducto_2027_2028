@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: borrador v02 sobre la PPT original, con datos y gráficos conservados; pendiente recibir fotos y novedades de Leandro Doglio.
+Estado vigente: borrador v03, capacitación 2.87%, sobre la PPT original, con datos y gráficos conservados; pendiente recibir fotos y novedades de Leandro Doglio.
+
+## Entrega vigente v03 — capacitación 2.87%
+
+Tras informar el usuario que seguía viendo `Pending`, se verificó el PPT recuperado de GitHub (`84ad8e423ce3b3061183e623c0dac67bf34b3fb0`): la tarjeta de la lámina 4 ya contenía `2.87%`. No se establece la causa de que el archivo abierto por el usuario mostrara la versión anterior.
+
+Para distinguir la descarga, se crea una entrega con nombre nuevo: `SMP_HSE_Octubre_2026_v03_CAPACITACION_2_87.pptx`, con PDF homónimo y comprobación visual de la tarjeta. **Esta v03 es la entrega vigente.** El porcentaje permanece en azul y la meta es ≥1%. Las versiones anteriores se conservan como antecedentes.
 
 ## Instrucciones vigentes — actualización v02
 

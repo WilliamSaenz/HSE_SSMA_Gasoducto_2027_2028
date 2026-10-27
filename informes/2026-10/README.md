@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v09, sin las láminas de novedades ni de indicadores ambientales; 7 láminas. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v10, sin las láminas ambientales; 8 láminas, incluido el cierre The End. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v09, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v10, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v09](entregables/SMP_HSE_Octubre_2026_v09_TEMAS_SEGURIDAD.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v09_TEMAS_SEGURIDAD.pdf)
+- [PowerPoint editable v10](entregables/SMP_HSE_Octubre_2026_v10_KPIS_26OCT_CIERRE.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v10_KPIS_26OCT_CIERRE.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -56,3 +56,11 @@ Se omite también la lámina de indicadores ambientales de residuos y consumo de
 Se edita únicamente la lámina 5: se eliminan las fotos y se incorporan tres ítems generales —recepción del equipamiento de rescate en espacios confinados, entrenamiento con ese equipamiento y 100% de caminatas gerenciales programadas hasta el corte—. El resto de la PPT permanece sin cambios.
 
 ![Temas generales de seguridad v09](entregables/VISTA_TEMAS_SEGURIDAD_v09.png)
+
+## Cambio vigente v10
+
+Se incorporan cuatro ceros en la tabla Other KPIs, con corte 26/10/2026 confirmado por el usuario. Se agrega una lámina de cierre The End como última página. Los gráficos históricos y las otras láminas existentes se conservan, incluido 2.87% y los tres temas generales de seguridad.
+
+![Tabla KPI con corte al 26 de octubre](entregables/VISTA_KPIS_26OCT_v10.png)
+
+![Cierre The End](entregables/VISTA_CIERRE_v10.png)

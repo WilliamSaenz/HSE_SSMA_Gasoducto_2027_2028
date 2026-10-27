@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v09 de 7 láminas; lámina 5 con tres temas generales de seguridad, sin fotos; restantes láminas sin cambios.
+Estado vigente: PPT general v10 de 8 láminas; tabla KPI con cuatro ceros al 26/10 y lámina final The End.
+
+## Presentación general vigente v10 — tabla KPI y cierre
+
+El usuario confirma que los valores de la tabla KPI no cambiaron y solicita reemplazar septiembre por corte al 26/octubre. Se registran DAFWCF 0, TRICF 0, TVCR 0 y FAC 0 en la lámina 3, eliminando los Pending de esas cuatro celdas; encabezado Other KPIs · cut-off 26 Oct 2026. Se conserva la precisión real de las metas y la simplificación de ceros decimales ya solicitada. El subtítulo distingue la tabla actualizada de los gráficos históricos agosto–septiembre, que no se recalculan.
+
+El usuario pide el cierre del segundo pantallazo como última lámina: se agrega The End con el fondo y patrón de la portada del proyecto, en formato editable. La PPT queda con 8 láminas. Las otras seis láminas originales y sus notas permanecen iguales, incluido 2.87% y los tres ítems de seguridad sin fotos. Continúan omitidos los bloques ambientales. La actualización del helicóptero sigue pendiente. Archivo: `SMP_HSE_Octubre_2026_v10_KPIS_26OCT_CIERRE.pptx`, con PDF homónimo. Validación: `../revision/validacion_v10.json`.
 
 ## Presentación general vigente v09 — tres ítems generales de seguridad, sin fotos
 

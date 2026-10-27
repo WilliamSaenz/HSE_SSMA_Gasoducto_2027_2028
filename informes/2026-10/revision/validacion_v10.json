@@ -1,0 +1,28 @@
+{
+  "version": "v10",
+  "file": "SMP_HSE_Octubre_2026_v10_KPIS_26OCT_CIERRE.pptx",
+  "slides": 8,
+  "kpi_table": {
+    "slide": 3,
+    "cutoff": "2026-10-26",
+    "DAFWCF": 0,
+    "TRICF": 0,
+    "TVCR": 0,
+    "FAC": 0,
+    "source": "Valores confirmados por el usuario en su captura; sin cambios"
+  },
+  "closing_slide": {
+    "slide": 8,
+    "text": "The End",
+    "source": "Segundo pantallazo y arte de portada original"
+  },
+  "other_existing_slides_and_notes_unchanged": true,
+  "historical_chart_parts_unchanged": true,
+  "embedded_workbooks_unchanged": true,
+  "training_card": "2.87%",
+  "environment_slides_still_omitted": true,
+  "current_pptx_sha256": "91fa8f386469fd6bb3ff28105fa309951342000002866213137598629e697608",
+  "issued": false,
+  "pdf_pages": 8,
+  "pdf_text_verified": true
+}

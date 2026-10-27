@@ -1,0 +1,134 @@
+{
+  "version": "v12",
+  "file": "SMP_HSE_Octubre_2026_v12_GRAFICOS_AGO_SEP.pptx",
+  "source": "Último archivo adjunto por el usuario, aunque su nombre dice v10",
+  "source_sha256": "ee06890a09917c48418ca2250bf4c0d161e88f80ffe06f1fc8303e97abf689a6",
+  "slides": 7,
+  "changed_slide": 4,
+  "charts_updated": [
+    {
+      "chart_part": "/ppt/charts/chart3.xml",
+      "categories": [
+        "Aug · total 2",
+        "Sep · total 7"
+      ],
+      "series": [
+        {
+          "name": "Monthly total",
+          "values": [
+            2.0,
+            7.0
+          ]
+        },
+        {
+          "name": "Cumulative total",
+          "values": [
+            2.0,
+            9.0
+          ]
+        }
+      ]
+    },
+    {
+      "chart_part": "/ppt/charts/chart4.xml",
+      "categories": [
+        "Aug · total 2",
+        "Sep · total 4"
+      ],
+      "series": [
+        {
+          "name": "Monthly total",
+          "values": [
+            2.0,
+            4.0
+          ]
+        },
+        {
+          "name": "Cumulative total",
+          "values": [
+            2.0,
+            6.0
+          ]
+        }
+      ]
+    },
+    {
+      "chart_part": "/ppt/charts/chart5.xml",
+      "categories": [
+        "Aug · total 2",
+        "Sep · total 2"
+      ],
+      "series": [
+        {
+          "name": "Monthly total",
+          "values": [
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "name": "Cumulative total",
+          "values": [
+            2.0,
+            4.0
+          ]
+        }
+      ]
+    },
+    {
+      "chart_part": "/ppt/charts/chart6.xml",
+      "categories": [
+        "Aug · total 167",
+        "Sep · total 295"
+      ],
+      "series": [
+        {
+          "name": "Monthly total",
+          "values": [
+            167.0,
+            295.0
+          ]
+        },
+        {
+          "name": "Cumulative total",
+          "values": [
+            167.0,
+            462.0
+          ]
+        }
+      ]
+    },
+    {
+      "chart_part": "/ppt/charts/chart7.xml",
+      "categories": [
+        "Aug · total 1,853",
+        "Sep · total 1,796"
+      ],
+      "series": [
+        {
+          "name": "Monthly total",
+          "values": [
+            1853.0,
+            1796.0
+          ]
+        },
+        {
+          "name": "Cumulative total",
+          "values": [
+            1853.0,
+            3649.0
+          ]
+        }
+      ]
+    }
+  ],
+  "october_empty_category_removed_from_five_charts": true,
+  "all_original_august_september_values_retained": true,
+  "other_slide_content_and_notes_unchanged": true,
+  "training_card": "2.87%",
+  "last_slide": "The End",
+  "current_pptx_sha256": "f790052affd74c4804c220c23da5e990910c4ff0c68ff4ee85f00a5eefe4f44b",
+  "issued": false,
+  "pdf_pages": 7,
+  "pdf_slide_4_no_october_pending": true
+}

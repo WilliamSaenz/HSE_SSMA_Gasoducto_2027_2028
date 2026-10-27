@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v11, sin las láminas ambientales; 8 láminas, incluido el cierre The End. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v12, basada en el último archivo adjunto; 7 láminas, con The End al final. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v11, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v12, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v11](entregables/SMP_HSE_Octubre_2026_v11_ESPACIADO_CORREGIDO.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v11_ESPACIADO_CORREGIDO.pdf)
+- [PowerPoint editable v12](entregables/SMP_HSE_Octubre_2026_v12_GRAFICOS_AGO_SEP.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v12_GRAFICOS_AGO_SEP.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -68,3 +68,9 @@ Se incorporan cuatro ceros en la tabla Other KPIs, con corte 26/10/2026 confirma
 ## Cambio vigente v11
 
 Se corrige únicamente el espaciado de los ítems 1.1–1.4 de la agenda. Se elimina el tabulador y el espacio final con tamaño de letra distinto; interlineado uniforme. Contenido y demás láminas sin cambios.
+
+## Cambio vigente v12
+
+Se usa como base el último archivo del usuario (7 láminas). En los cinco gráficos de barras de la lámina 4 se elimina la categoría vacía Oct · pending; solo se muestran agosto y septiembre, conservando todos sus valores y el 2.87%. Las demás ediciones del archivo adjunto se mantienen, incluido The End al final.
+
+![Gráficos de barras solo agosto y septiembre v12](entregables/VISTA_GRAFICOS_AGO_SEP_v12.png)

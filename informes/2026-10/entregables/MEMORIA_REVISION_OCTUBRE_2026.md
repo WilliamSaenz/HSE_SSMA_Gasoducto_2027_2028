@@ -1,7 +1,15 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v11 de 8 láminas; espaciado de agenda corregido, sin cambios en el resto.
+Estado vigente: PPT general v12 de 7 láminas, basada en el último adjunto; cinco gráficos de barras sin octubre; 2.87% y The End conservados.
+
+## Presentación general vigente v12 — gráficos solo agosto y septiembre
+
+El usuario adjunta su versión de trabajo, llamada v10 pero con 7 láminas y ediciones propias (SHA-256 `ee06890a09917c48418ca2250bf4c0d161e88f80ffe06f1fc8303e97abf689a6`). Se usa ese archivo como base, sin reemplazarlo por la v11 anterior. Se preserva sin cambios en `../original/2026-10-27_PPT_usuario_base_v12.pptx`.
+
+En la lámina 4 se elimina Oct · pending de las cinco series de categorías y de los libros incrustados asociados. Solo quedan agosto y septiembre en recorridas, campañas, simulacros, OCS y HHS. Los diez conjuntos de valores mensuales/acumulados se verifican idénticos a sus valores originales de agosto–septiembre. No se carga octubre con cero. Se mantiene 2.87%. Las otras láminas del adjunto y sus notas no cambian; The End sigue último. El usuario había eliminado de su adjunto la actualización de helicóptero de versiones anteriores, y no se la reincorpora. No se aplican otras correcciones fuera de esta solicitud ni se alteran los gráficos de frecuencia de la lámina 3.
+
+Archivo: `SMP_HSE_Octubre_2026_v12_GRAFICOS_AGO_SEP.pptx`, con PDF homónimo. Validación: `../revision/validacion_v12.json`.
 
 ## Presentación general vigente v11 — espaciado de agenda
 

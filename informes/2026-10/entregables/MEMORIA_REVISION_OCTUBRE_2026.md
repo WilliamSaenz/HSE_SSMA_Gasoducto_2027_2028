@@ -1,7 +1,28 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: borrador v03, capacitación 2.87%, sobre la PPT original, con datos y gráficos conservados; pendiente recibir fotos y novedades de Leandro Doglio.
+Estado vigente: borrador v04, novedades de ambiente incorporadas, capacitación 2.87% y estadísticas conservadas, con datos y gráficos conservados; pendiente recibir fotos y novedades de Leandro Doglio.
+
+## Entrega vigente v04 — instrucción de Adrián y novedades ambientales
+
+El usuario identifica a su jefe como **Adrián Leandro de Girolamo** y aporta la cadena de correos del **26/10/2026**. Esta v04 es la base de edición vigente; las v01–v03 son antecedentes.
+
+Instrucción literal de Adrián, 17:18 según captura: «Temas relevantes de ambiente para poner en un slide debajo de los datos estadisticos, estos ultimos deben quedar como se los mande».
+
+La cadena de Paula pide conservar los indicadores al **30/09**, comentar novedades/incidentes de octubre, novedades del helicóptero y otros puntos de HSE/construcción. Nicolás indica que los indicadores ambientales de octubre cierran a principios de noviembre; esto no impide incluir los hitos y pendientes que luego comunica.
+
+Nicolás Auriemma aporta dos temas en su correo de 16:36:37 según captura:
+
+- **Allen:** aprobación de la Adenda «Actualización Planta Compresora Allen». Sigue pendiente la cuestión de Stack Frío: SMP debe presentar una comparación de antorcha vs venteo frío para discusión con la autoridad. La fecha 21/10/2026 y Resolución 962/2026 se toman de la captura previa de permisos, no de una resolución original revisada.
+- **Tramo neuquino:** presentación pendiente, con Serman, ante SsRH de los puntos observados del Estudio de Riesgo Hídrico, para obtener el permiso hídrico. No consta la aprobación de ese permiso.
+
+Aplicación: la lámina 7, inmediatamente después de las estadísticas de ambiente, incorpora esta síntesis en inglés con notas de orador en español. Los gráficos y libros Excel incrustados son idénticos byte a byte a la v03. El 2.87% permanece. Se aclara la referencia estadística al 30/09, sin confundirla con el corte de novedades del informe al 27/10.
+
+La existencia de una lámina de permisos en la presentación que tiene SESA no elimina el pedido expreso de Adrián de agregar una síntesis ambiental junto a las estadísticas. No se inserta ni reemplaza la lámina completa de permisos del comité. No se enviaron correos ni se contactó a las personas de la cadena.
+
+Pendientes: novedades de seguridad/construcción de Leandro, actualización del helicóptero, fotos o documentos de apoyo y precisión de metas TRICF/TVCR. No se debe escribir «sin incidentes» sin confirmación específica.
+
+Archivo actual: `SMP_HSE_Octubre_2026_v04_AMBIENTE_ACTUALIZADO.pptx`, con PDF homónimo. Validación: `../revision/validacion_v04.json`.
 
 ## Entrega vigente v03 — capacitación 2.87%
 

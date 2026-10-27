@@ -1,0 +1,18 @@
+{
+  "version": "v04",
+  "statistics_reference_date": "2026-09-30",
+  "report_requested_cutoff": "2026-10-27",
+  "source_email_date": "2026-10-26",
+  "manager": "Adrián Leandro de Girolamo",
+  "environment_topics_source": "Capturas de correos de Nicolás Auriemma reenviados por Adrián; captura previa de permisos para fecha/resolución de Allen",
+  "all_chart_and_embedding_parts_byte_identical_to_v03": true,
+  "training_card": "2.87%",
+  "new_environment_highlights_slide": 7,
+  "photos_or_original_permit_documents_received": false,
+  "incident_absence_confirmed": false,
+  "current_pptx_filename": "SMP_HSE_Octubre_2026_v04_AMBIENTE_ACTUALIZADO.pptx",
+  "current_pptx_sha256": "281355e06ead80871a4eb5946f5886d80dc51a90c35c523b58c82c241c1549e2",
+  "issued": false,
+  "pdf_pages": 9,
+  "visual_preview_file": "VISTA_AMBIENTE_OCTUBRE_v04.png"
+}

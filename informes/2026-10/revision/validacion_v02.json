@@ -58,5 +58,13 @@
   "pdf_pages": 9,
   "visual_review": "Revisadas 9 láminas; corregido solapamiento del pie de la lámina 3",
   "numeric_display": "3.00→3; 2.00→2; 0.00→0; 1.00%→1%; 2.35 y 0.79 preservados",
-  "current_pptx_sha256": "6a609ebebaef33e070ea55a4c46d1a0eb3504c7145012adcd16d6d67b4e73736"
+  "current_pptx_sha256": "4f08f19a0c05f8bea4118afda4189ffec01601e1bcb99d79d07c998dbeacf382",
+  "training_card": {
+    "slide": 4,
+    "value": "2.87%",
+    "source": "Segundo pantallazo indicado expresamente por el usuario",
+    "target": "≥1%",
+    "color": "013EF5",
+    "recalculated": false
+  }
 }

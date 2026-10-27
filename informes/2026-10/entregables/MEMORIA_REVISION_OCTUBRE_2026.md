@@ -5,6 +5,11 @@ Estado vigente: borrador v02 sobre la PPT original, con datos y gráficos conser
 
 ## Instrucciones vigentes — actualización v02
 
+### Ajuste posterior: porcentaje de capacitación
+
+El usuario indicó conservar el valor del segundo pantallazo: **Training % vs HHT = 2.87%**. Se reemplazó `Pending` por `2.87%` en azul en la lámina 4. Se mantiene la meta `≥1%`, numéricamente igual a `≥1.00%`. El valor se transcribe de la captura indicada; no se recalcula con registros HHS/HHT no aportados. El resto de los datos y gráficos no cambia.
+
+
 La v02 reemplaza a la v01 como base de edición. La v01 queda como antecedente, no como presentación vigente.
 
 El usuario añadió estas indicaciones:

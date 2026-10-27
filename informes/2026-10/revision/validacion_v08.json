@@ -1,0 +1,15 @@
+{
+  "version": "v08",
+  "file": "SMP_HSE_Octubre_2026_v08_SIN_LAMINAS_AMBIENTE.pptx",
+  "slides": 7,
+  "removed_slide": "Environmental Performance Indicators: waste generation and freshwater consumption",
+  "prior_environment_narrative_still_omitted": true,
+  "retained_safety_charts": 7,
+  "retained_chart_xml_canonical_equal": true,
+  "retained_embedded_workbooks_byte_identical": true,
+  "training_card": "2.87%",
+  "current_pptx_sha256": "856a3d4518ff14bdbfc6d95eb57a4078dd069a8dd71a96c3b8566e168fa2a293",
+  "issued": false,
+  "pdf_pages": 7,
+  "pdf_omission_verified": true
+}

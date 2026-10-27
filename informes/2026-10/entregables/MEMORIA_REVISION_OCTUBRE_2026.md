@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v07 de 8 láminas; se omiten los dos temas de permisos ambientales por instrucción del usuario; gráficos y 2.87% conservados.
+Estado vigente: PPT general v08 de 7 láminas, sin las láminas ambientales de novedades ni indicadores; seguridad y 2.87% conservados.
+
+## Presentación general vigente v08 — sin láminas ambientales
+
+El usuario solicita omitir también la lámina de indicadores ambientales de residuos y consumo de agua, identificada en su captura. Se retira de la v07 la antigua lámina 6 y se renumeran los pies. La lámina narrativa de Allen y Neuquén retirada en v07 sigue omitida. La PPT general queda con 7 láminas: portada, agenda, indicadores HSE, barras de seguridad/capacitación, novedades de seguridad pendientes, propuesta de helicóptero y actualización de helicóptero pendiente.
+
+Se conservan los siete gráficos de seguridad, sus datos/libros y el 2.87%. Archivo vigente: `SMP_HSE_Octubre_2026_v08_SIN_LAMINAS_AMBIENTE.pptx`, con PDF homónimo. Las versiones anteriores son antecedentes. Evidencia: `../revision/validacion_v08.json`.
 
 ## Presentación general vigente v07 — omisión solicitada
 

@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v07, con los dos temas de permisos ambientales omitidos. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v08, sin las láminas de novedades ni de indicadores ambientales; 7 láminas. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v07, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v08, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v07](entregables/SMP_HSE_Octubre_2026_v07_SIN_TEMAS_PERMISOS.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v07_SIN_TEMAS_PERMISOS.pdf)
+- [PowerPoint editable v08](entregables/SMP_HSE_Octubre_2026_v08_SIN_LAMINAS_AMBIENTE.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v08_SIN_LAMINAS_AMBIENTE.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -46,3 +46,7 @@ Entrega vigente: la PPT general de 9 láminas, con Allen y Neuquén incorporados
 ## Cambio vigente v07
 
 A pedido del usuario se omiten de la PPT general el permiso hídrico de Neuquén y la adenda Allen/Stack Frío. Se retira la lámina narrativa que contenía esos dos temas, conservando los gráficos ambientales y el 2.87% de capacitación. La entrega actual tiene 8 láminas. Las versiones y láminas ambientales enlazadas más arriba son antecedentes y contienen el texto que se pidió omitir.
+
+## Cambio vigente v08
+
+Se omite también la lámina de indicadores ambientales de residuos y consumo de agua. La presentación general vigente queda con 7 láminas, sin los dos bloques ambientales retirados por el usuario. Se mantienen los siete gráficos de seguridad y el 2.87% de capacitación.

@@ -1,9 +1,9 @@
 # Informe HSE — octubre 2026
 
-Versión vigente: **v05, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v06, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v05](entregables/SMP_HSE_Octubre_2026_v05_REVISADA.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v05_REVISADA.pdf)
+- [PowerPoint editable v06](entregables/SMP_HSE_Octubre_2026_v06_INTEGRADA.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v06_INTEGRADA.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -25,7 +25,7 @@ La lámina 4 muestra **2.87%**, en azul. Esta versión tiene un nombre nuevo par
 
 Se mantiene la referencia estadística al 30/09 y todos los gráficos sin cambios, incluido el 2.87% de capacitación. La lámina 7 resume la aprobación de la adenda de Allen y su pendiente de Stack Frío, y la gestión con Serman ante SSRH por el permiso hídrico de Neuquén. Fuente: capturas de correos del 26/10/2026. No se afirma ausencia de incidentes ni aprobación del permiso hídrico.
 
-![Novedades ambientales de octubre v05](entregables/VISTA_AMBIENTE_v05.png)
+![Novedades ambientales de octubre v05](entregables/VISTA_AMBIENTE_v06.png)
 
 ## Revisión v05 sobre el último archivo del usuario
 
@@ -37,3 +37,7 @@ Se corrigió el orden para agrupar seguridad y ambiente con sus novedades. La l�
 - [PDF de la lámina](entregables/SMP_Medio_Ambiente_Lamina_Final_27Oct2026.pdf)
 
 Incluye expresamente el pendiente de Stack Frío y el permiso hídrico de Neuquén. La PPT completa v05 también queda actualizada.
+
+## Presentación general integrada v06
+
+Entrega vigente: la PPT general de 9 láminas, con Allen y Neuquén incorporados en la sección ambiental posterior a sus estadísticas. No es la lámina individual. Se conserva 2.87% y todos los datos. Permanecen pendientes los temas/fotos de seguridad y la actualización del helicóptero.

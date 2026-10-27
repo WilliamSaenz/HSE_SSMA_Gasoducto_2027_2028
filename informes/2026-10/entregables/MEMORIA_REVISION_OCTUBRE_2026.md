@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: borrador v05, basado en el último PPT del usuario; orden corregido, ambiente completo sin recuadros de fotos y capacitación 2.87%.
+Estado vigente: PPT general integrada v06; ambiente con Allen/Stack Frío y Neuquén/Serman/SSRH; estadísticas y 2.87% conservados.
+
+## Presentación general vigente v06
+
+El usuario solicita toda la PPT integrada y reitera los dos puntos ambientales para planta/tramo Neuquén. Se entrega `SMP_HSE_Octubre_2026_v06_INTEGRADA.pptx`, general de 9 láminas, con PDF homónimo. La lámina 7 incorpora explícitamente la adenda de Allen aprobada y la definición de Stack Frío pendiente con comparación de SMP ante la autoridad; Neuquén mantiene pendiente responder y presentar las observaciones con Serman ante SSRH para avanzar en el permiso. Ambos temas son ambientales y no se duplican como actividades de seguridad.
+
+Se mantienen los gráficos, libros y 2.87%. Se corrige un escape XML visible en dos pies de tarjetas, usando saltos de línea reales. La plantilla de seguridad permanece pendiente de novedades/fotos específicas; los dos puntos ambientales recibidos no se convierten en novedades de seguridad. La actualización del helicóptero sigue pendiente. La lámina individual anterior queda como complemento, no como entrega principal. Validación: `../revision/validacion_v06.json`.
 
 ## Lámina ambiental final independiente
 

@@ -1,9 +1,9 @@
 # Informe HSE — octubre 2026
 
-Versión vigente: **v04, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v05, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v04](entregables/SMP_HSE_Octubre_2026_v04_AMBIENTE_ACTUALIZADO.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v04_AMBIENTE_ACTUALIZADO.pdf)
+- [PowerPoint editable v05](entregables/SMP_HSE_Octubre_2026_v05_REVISADA.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v05_REVISADA.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -25,4 +25,8 @@ La lámina 4 muestra **2.87%**, en azul. Esta versión tiene un nombre nuevo par
 
 Se mantiene la referencia estadística al 30/09 y todos los gráficos sin cambios, incluido el 2.87% de capacitación. La lámina 7 resume la aprobación de la adenda de Allen y su pendiente de Stack Frío, y la gestión con Serman ante SSRH por el permiso hídrico de Neuquén. Fuente: capturas de correos del 26/10/2026. No se afirma ausencia de incidentes ni aprobación del permiso hídrico.
 
-![Novedades ambientales de octubre v04](entregables/VISTA_AMBIENTE_OCTUBRE_v04.png)
+![Novedades ambientales de octubre v05](entregables/VISTA_AMBIENTE_v05.png)
+
+## Revisión v05 sobre el último archivo del usuario
+
+Se corrigió el orden para agrupar seguridad y ambiente con sus novedades. La lámina ambiental incorpora los dos temas del correo de Nicolás y elimina los recuadros opcionales de fotos. Se conserva 2.87% y todos los gráficos/datos del archivo adjunto. Las fotos y novedades de seguridad y la actualización del helicóptero siguen pendientes.

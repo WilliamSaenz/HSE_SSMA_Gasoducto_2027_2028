@@ -1,7 +1,17 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: borrador v04, novedades de ambiente incorporadas, capacitación 2.87% y estadísticas conservadas, con datos y gráficos conservados; pendiente recibir fotos y novedades de Leandro Doglio.
+Estado vigente: borrador v05, basado en el último PPT del usuario; orden corregido, ambiente completo sin recuadros de fotos y capacitación 2.87%.
+
+## Entrega vigente v05 — revisión sobre el archivo adjunto del usuario
+
+La v05 se prepara a partir del último PPT reenviado por el usuario (SHA-256 `241a86a6d06153b9f449f571078a3e0c2cf4d23c90ac18565fb97e3d5e3677a7`), preservado como `../original/2026-10-27_PPT_usuario_base_revision.pptx`. Es la entrega vigente; los apartados de versiones anteriores son antecedentes.
+
+Se intercambian las posiciones 5 y 6: gráficos de seguridad → novedades de seguridad → gráficos ambientales → novedades ambientales. Se corrigen los pies manuales 5/6. Se incorpora en la lámina 7 el resumen de Allen y Neuquén tomado de los correos y se eliminan los recuadros ambientales de fotos: eran una sugerencia del asistente, no un requerimiento de Adrián. Si se desea apoyo ambiental adicional, coordinarlo opcionalmente con Nicolás. Para fotos y novedades de seguridad, coordinar con Leandro Doglio.
+
+Se conserva 2.87%, las imágenes del archivo del usuario y los datos de los gráficos. Se verifica igualdad canónica de todos los XML de gráficos y relaciones; los únicos cambios de serialización de esos XML son comillas/saltos de línea de la declaración XML. Los libros incrustados permanecen idénticos byte a byte. Se aclara la referencia estadística al 30/09 y las novedades de octubre en láminas separadas.
+
+Siguen pendientes las novedades/fotos de seguridad y los tres puntos de actualización del helicóptero. Los campos de octubre sin cifras no se reemplazan por cero ni se exige carga nueva para esta fase. Archivo: `SMP_HSE_Octubre_2026_v05_REVISADA.pptx`, con PDF homónimo. Evidencia: `../revision/validacion_v05.json`.
 
 ## Entrega vigente v04 — instrucción de Adrián y novedades ambientales
 

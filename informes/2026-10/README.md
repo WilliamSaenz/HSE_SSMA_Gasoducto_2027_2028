@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v14, basada en el último archivo adjunto; 7 láminas, con The End al final. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v15, basada en el último archivo adjunto; 7 láminas, con The End al final. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v14, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v15, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v14](entregables/SMP_HSE_Octubre_2026_v14_INTERLINEADO_CORREGIDO.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v14_INTERLINEADO_CORREGIDO.pdf)
+- [PowerPoint editable v15](entregables/SMP_HSE_Octubre_2026_v15_PERMISOS_AMBIENTALES.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v15_PERMISOS_AMBIENTALES.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -84,3 +84,9 @@ Se rediseña solo la lámina 5: tres tarjetas con iconos editables, títulos bre
 ## Cambio vigente v14
 
 Interlineado uniforme entre los cuatro ítems de agenda, incluido 1.3–1.4. Se elimina el tabulador y espacio final de 32 pt. Se conserva la v13 como base: tarjetas de seguridad, gráficos solo agosto/septiembre y resto de contenido sin cambios.
+
+## Cambio vigente v15
+
+La lámina 6 de propuesta de helicóptero se reemplaza por dos tarjetas de permisos ambientales en inglés, con emojis 💧 y 🏭 y el estilo de la lámina 5. Se incluyen Neuquén/Serman/SSRH y Allen/adenda aprobada/Stack Frío pendiente. El resto de las láminas permanece sin cambios. Las estadísticas ambientales no se reincorporan.
+
+![Permisos ambientales en inglés con emojis v15](entregables/VISTA_PERMISOS_AMBIENTALES_v15.png)

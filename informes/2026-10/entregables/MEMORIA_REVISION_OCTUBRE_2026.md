@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v14 de 7 láminas; interlineado de agenda corregido, conservando el diseño mejorado de v13.
+Estado vigente: PPT general v15 de 7 láminas; propuesta de helicóptero sustituida por permisos ambientales en inglés con emojis, según nuevo pedido.
+
+## Presentación general vigente v15 — reemplazo de helicóptero por permisos
+
+El usuario pide reemplazar la diapositiva de propuesta de helicóptero por los dos puntos ambientales, traducidos al inglés y con emojis como la lámina 5. Se sustituye la lámina 6 por dos tarjetas: 💧 Neuquén | Water Permit y 🏭 Allen Compressor Plant | Environmental Addendum. Se mantienen todos los pendientes expresados y la adenda como aprobada. No se agregan fecha de aprobación ni número de resolución, porque no forman parte de este texto solicitado. El encabezado se cambia a 2.0 > PERMITS > Environmental Update.
+
+La instrucción actual prevalece sobre las omisiones anteriores únicamente para estos dos puntos. No se reincorpora la lámina de estadísticas ambientales. Se conservan las otras seis láminas y sus notas, incluido el interlineado de agenda de v14, las tarjetas de seguridad, el 2.87%, gráficos agosto–septiembre y The End. La agenda general del extracto no se modifica en esta solicitud de reemplazo de una lámina. Archivo vigente: `SMP_HSE_Octubre_2026_v15_PERMISOS_AMBIENTALES.pptx`, con PDF homónimo. Validación: `../revision/validacion_v15.json`.
 
 ## Presentación general vigente v14 — interlineado 1.3/1.4
 

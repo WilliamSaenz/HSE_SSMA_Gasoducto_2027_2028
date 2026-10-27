@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v10, sin las láminas ambientales; 8 láminas, incluido el cierre The End. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v11, sin las láminas ambientales; 8 láminas, incluido el cierre The End. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v10, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v11, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v10](entregables/SMP_HSE_Octubre_2026_v10_KPIS_26OCT_CIERRE.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v10_KPIS_26OCT_CIERRE.pdf)
+- [PowerPoint editable v11](entregables/SMP_HSE_Octubre_2026_v11_ESPACIADO_CORREGIDO.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v11_ESPACIADO_CORREGIDO.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -64,3 +64,7 @@ Se incorporan cuatro ceros en la tabla Other KPIs, con corte 26/10/2026 confirma
 ![Tabla KPI con corte al 26 de octubre](entregables/VISTA_KPIS_26OCT_v10.png)
 
 ![Cierre The End](entregables/VISTA_CIERRE_v10.png)
+
+## Cambio vigente v11
+
+Se corrige únicamente el espaciado de los ítems 1.1–1.4 de la agenda. Se elimina el tabulador y el espacio final con tamaño de letra distinto; interlineado uniforme. Contenido y demás láminas sin cambios.

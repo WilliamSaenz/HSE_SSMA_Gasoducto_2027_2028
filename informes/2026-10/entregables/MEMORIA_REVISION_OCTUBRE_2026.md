@@ -1,7 +1,11 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v10 de 8 láminas; tabla KPI con cuatro ceros al 26/10 y lámina final The End.
+Estado vigente: PPT general v11 de 8 láminas; espaciado de agenda corregido, sin cambios en el resto.
+
+## Presentación general vigente v11 — espaciado de agenda
+
+A pedido del usuario se corrige el espaciado entre los ítems 1.1 a 1.4 de la lámina 2. La diferencia se originaba en un tabulador y un espacio final con fuente de 32 pt en el último párrafo. Se retiran y se establece el mismo tamaño de 20 pt e interlineado de 24 pt para las cuatro líneas, sin cambiar sus textos ni colores. Las otras siete láminas permanecen iguales, incluida tabla KPI al 26/10, 2.87%, temas generales de seguridad y cierre The End. Archivo: `SMP_HSE_Octubre_2026_v11_ESPACIADO_CORREGIDO.pptx`, con PDF homónimo. Validación: `../revision/validacion_v11.json`.
 
 ## Presentación general vigente v10 — tabla KPI y cierre
 

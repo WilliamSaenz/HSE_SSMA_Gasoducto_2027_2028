@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general integrada v06; ambiente con Allen/Stack Frío y Neuquén/Serman/SSRH; estadísticas y 2.87% conservados.
+Estado vigente: PPT general v07 de 8 láminas; se omiten los dos temas de permisos ambientales por instrucción del usuario; gráficos y 2.87% conservados.
+
+## Presentación general vigente v07 — omisión solicitada
+
+El usuario indica «debemos omitir esto en la ppt» y cita los dos temas de permiso hídrico de Neuquén y adenda Allen/Stack Frío. Se aplica la omisión a la presentación general: se retira la lámina narrativa 7, que contenía únicamente esos dos temas, y se renumeran los pies. Se conservan los gráficos ambientales y los demás bloques; la PPT queda en 8 láminas. El texto omitido tampoco queda en las notas de orador de la entrega v07. No se altera el estado real de los trámites.
+
+Archivo: `SMP_HSE_Octubre_2026_v07_SIN_TEMAS_PERMISOS.pptx`, con PDF homónimo. Se conserva el 2.87%, las series de gráficos y los libros incrustados. Las versiones anteriores quedan como antecedentes y no son la entrega vigente. Seguridad y helicóptero mantienen sus pendientes. Evidencia: `../revision/validacion_v07.json`.
 
 ## Presentación general vigente v06
 

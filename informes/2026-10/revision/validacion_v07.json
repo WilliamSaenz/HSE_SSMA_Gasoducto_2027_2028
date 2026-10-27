@@ -1,0 +1,16 @@
+{
+  "version": "v07",
+  "file": "SMP_HSE_Octubre_2026_v07_SIN_TEMAS_PERMISOS.pptx",
+  "slides": 8,
+  "requested_change": "Omitir los dos temas citados: permiso hídrico Neuquén y adenda Allen/Stack Frío",
+  "removed_slide": "Anterior lámina 7 de novedades ambientales, cuyo contenido eran esos dos temas",
+  "environment_statistics_retained": true,
+  "chart_xml_canonical_equal": true,
+  "embedded_workbooks_byte_identical": true,
+  "training_card": "2.87%",
+  "omitted_content_absent_from_visible_text_and_notes": true,
+  "current_pptx_sha256": "5a1bca35b223269ea450c3252af737d7ace6288c5fb4bf2e973be27bd2cd40c8",
+  "issued": false,
+  "pdf_pages": 8,
+  "pdf_omitted_text_absent": true
+}

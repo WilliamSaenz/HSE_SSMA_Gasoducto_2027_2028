@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v08 de 7 láminas, sin las láminas ambientales de novedades ni indicadores; seguridad y 2.87% conservados.
+Estado vigente: PPT general v09 de 7 láminas; lámina 5 con tres temas generales de seguridad, sin fotos; restantes láminas sin cambios.
+
+## Presentación general vigente v09 — tres ítems generales de seguridad, sin fotos
+
+El usuario solicita editar únicamente la lámina que tenía espacios para fotos. Se eliminan todos esos recuadros y se incluyen: recepción en obra de todo el equipamiento de rescate en espacios confinados; entrenamiento con el equipamiento recibido; y cumplimiento del 100% de las caminatas gerenciales programadas a la fecha de corte. Lenguaje general, sin limitarlo a la planta. La PPT conserva el inglés del informe y notas de referencia en español. El 100% no se atribuye a todo el mes ni se inventan participantes, certificaciones o fechas.
+
+Se verifica que las otras seis láminas y sus notas se mantienen iguales en XML canónico. Gráficos y libros permanecen sin cambios, al igual que 2.87% y las omisiones ambientales. Archivo: `SMP_HSE_Octubre_2026_v09_TEMAS_SEGURIDAD.pptx`, con PDF homónimo. Sigue pendiente la actualización del helicóptero. Validación: `../revision/validacion_v09.json`.
 
 ## Presentación general vigente v08 — sin láminas ambientales
 

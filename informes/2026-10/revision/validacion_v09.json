@@ -1,0 +1,25 @@
+{
+  "version": "v09",
+  "file": "SMP_HSE_Octubre_2026_v09_TEMAS_SEGURIDAD.pptx",
+  "changed_slide": 5,
+  "slide_count": 7,
+  "only_selected_slide_and_notes_changed": true,
+  "photos_and_placeholders_removed_from_slide_5": true,
+  "scope": "General HSE; not plant-specific",
+  "management_walks_scope": "100% of scheduled walks up to report cut-off; not full month",
+  "visible_items": [
+    "All confined space rescue equipment was received on site.",
+    "Training on the use of the confined space rescue equipment was completed.",
+    "100% of the management safety walks scheduled up to the reporting cut-off were completed."
+  ],
+  "other_slides_canonical_xml_unchanged": true,
+  "chart_parts_canonical_unchanged": true,
+  "embedded_workbooks_byte_identical": true,
+  "training_card": "2.87%",
+  "environment_slides_still_omitted": true,
+  "current_pptx_sha256": "3884504769b01009c3869f2e8b0e3b7967e92c40e6653762c720aa3a860d07bf",
+  "issued": false,
+  "pdf_pages": 7,
+  "slide_5_pdf_text_verified": true,
+  "preview_file": "VISTA_TEMAS_SEGURIDAD_v09.png"
+}

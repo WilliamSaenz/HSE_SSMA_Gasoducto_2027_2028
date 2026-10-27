@@ -1,11 +1,11 @@
 # Informe HSE — octubre 2026
 
-> Entrega vigente: v08, sin las láminas de novedades ni de indicadores ambientales; 7 láminas. Las referencias a versiones anteriores más abajo son antecedentes.
+> Entrega vigente: v09, sin las láminas de novedades ni de indicadores ambientales; 7 láminas. Las referencias a versiones anteriores más abajo son antecedentes.
 
-Versión vigente: **v08, borrador de trabajo**, corte solicitado al **27/10/2026**.
+Versión vigente: **v09, borrador de trabajo**, corte solicitado al **27/10/2026**.
 
-- [PowerPoint editable v08](entregables/SMP_HSE_Octubre_2026_v08_SIN_LAMINAS_AMBIENTE.pptx)
-- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v08_SIN_LAMINAS_AMBIENTE.pdf)
+- [PowerPoint editable v09](entregables/SMP_HSE_Octubre_2026_v09_TEMAS_SEGURIDAD.pptx)
+- [PDF para revisión](entregables/SMP_HSE_Octubre_2026_v09_TEMAS_SEGURIDAD.pdf)
 - [Registro de comentarios y decisiones](entregables/MEMORIA_REVISION_OCTUBRE_2026.md)
 - [Presentación original conservada](original/2026.10.26_Technical%20Committee%20SMP%20No5_YPF%20slides_v2_3.pptx)
 
@@ -13,7 +13,7 @@ Se conservaron las series de los siete gráficos y los siete libros incrustados 
 
 Orden de edición: gráficos de seguridad → fotos y novedades de seguridad → gráficos ambientales reconstruidos de la captura → fotos y novedades de ambiente.
 
-Las fotos y los temas relevantes de octubre están pendientes de Leandro Doglio. Los espacios para fotos son marcadores, no evidencia de actividades realizadas. Los valores de ambiente reproducen la captura suministrada y son históricos de agosto–septiembre.
+La lámina 5 contiene los tres temas generales de seguridad informados por el usuario, sin fotos. La actualización del helicóptero sigue pendiente. Los valores de ambiente reproducen la captura suministrada y son históricos de agosto–septiembre.
 
 Para descargar el PowerPoint desde su página de GitHub, utiliza **Download raw file**.
 
@@ -50,3 +50,9 @@ A pedido del usuario se omiten de la PPT general el permiso hídrico de Neuquén
 ## Cambio vigente v08
 
 Se omite también la lámina de indicadores ambientales de residuos y consumo de agua. La presentación general vigente queda con 7 láminas, sin los dos bloques ambientales retirados por el usuario. Se mantienen los siete gráficos de seguridad y el 2.87% de capacitación.
+
+## Cambio vigente v09
+
+Se edita únicamente la lámina 5: se eliminan las fotos y se incorporan tres ítems generales —recepción del equipamiento de rescate en espacios confinados, entrenamiento con ese equipamiento y 100% de caminatas gerenciales programadas hasta el corte—. El resto de la PPT permanece sin cambios.
+
+![Temas generales de seguridad v09](entregables/VISTA_TEMAS_SEGURIDAD_v09.png)

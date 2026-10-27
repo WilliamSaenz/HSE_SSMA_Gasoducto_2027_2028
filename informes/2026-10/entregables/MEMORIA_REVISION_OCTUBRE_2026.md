@@ -1,7 +1,13 @@
 # Registro de trabajo — Informe HSE octubre 2026 / SMP
 
 Actualizado: 27/10/2026, fecha local de referencia America/Buenos_Aires.
-Estado vigente: PPT general v12 de 7 láminas, basada en el último adjunto; cinco gráficos de barras sin octubre; 2.87% y The End conservados.
+Estado vigente: PPT general v13 de 7 láminas; diseño mejorado de la lámina 5, contenido y restantes láminas preservados.
+
+## Presentación general vigente v13 — mejora visual de los tres temas
+
+El usuario pide que la lámina de tres temas sea visualmente más atractiva, conservando contenido y formato. Se reemplaza la lista simple por tres tarjetas horizontales con títulos breves, iconos vectoriales editables y énfasis en 100%. Se conserva literalmente cada frase, el encabezado, el logo, el pie, la relación 4:3 y la paleta azul/gris/blanco. No se agregan fotos, certificaciones, cantidades ni alcances nuevos; los iconos son ilustrativos, no evidencia de un modelo específico de equipo.
+
+Las otras seis láminas y las notas de todas permanecen iguales en XML canónico. No se cambian gráficos, libros ni valores. Archivo: `SMP_HSE_Octubre_2026_v13_DISENO_MEJORADO.pptx`, con PDF homónimo. Validación: `../revision/validacion_v13.json`.
 
 ## Presentación general vigente v12 — gráficos solo agosto y septiembre
 

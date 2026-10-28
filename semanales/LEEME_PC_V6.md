@@ -1,3 +1,5 @@
+> **Reemplazada por V7:** usar [la versión corregida](Planilla_Semanal_Planta_C_HSE_V7_CORREGIDA.xlsx). Se sincronizó el encabezado Tipo con la definición interna de la tabla.
+
 # Semanal PC V6 — tipo de capacitación
 
 - En el registro de capacitaciones, la columna **Fecha** se reemplazó por **Tipo**.

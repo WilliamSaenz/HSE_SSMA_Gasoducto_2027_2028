@@ -1,0 +1,13 @@
+{
+  "archivo": "Planilla_Semanal_Planta_C_HSE_V6_TIPO_CAPACITACION.xlsx",
+  "sha256": "90e1334e730d94c7741caa20b59bbfdf35f9e6601c297db9c46d65d4509df864",
+  "errores_OpenXML_Office2021": 0,
+  "tipos": [
+    "Seguridad",
+    "Salud",
+    "Medio Ambiente"
+  ],
+  "rango_tipo": "01_SEGUIMIENTO_SEMANAL!B103:B132",
+  "semana": "01_SEGUIMIENTO_SEMANAL!O103:O132",
+  "prueba_calculo": "Tres tipos; horas y participantes por semana/empresa; exportación; tipos y semanas inválidas detectadas"
+}

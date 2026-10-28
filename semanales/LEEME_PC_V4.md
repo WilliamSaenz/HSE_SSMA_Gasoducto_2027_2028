@@ -1,3 +1,5 @@
+> **Reemplazada por V5:** usar [la versión corregida para Excel](Planilla_Semanal_Planta_C_HSE_V5_CORREGIDA.xlsx). V4 tenía errores internos; las instrucciones de carga siguientes se mantienen.
+
 # Semanal HSE de Planta Compresora — V4
 
 La versión V4 conserva el archivo semanal recibido y agrega cobertura de las entradas del mensual, con Observaciones-SMP y MAPs en el formato de la mensual adjunta `Plantilla_KPIs__PC_V5.xlsx`.

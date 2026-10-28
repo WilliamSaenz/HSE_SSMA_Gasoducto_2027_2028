@@ -1,6 +1,8 @@
 # Semanal Ducto — versión integrada vigente
 
-Archivo vigente: [Planilla_Semanal_Ducto_V14_INTEGRADA.xlsx](Planilla_Semanal_Ducto_V14_INTEGRADA.xlsx?raw=true).
+Archivo vigente: [Planilla_Semanal_Ducto_V15_INTEGRADA_EMPRESA.xlsx](Planilla_Semanal_Ducto_V15_INTEGRADA_EMPRESA.xlsx?raw=true).
+
+La V15 conserva íntegra la V14 y cambia únicamente el encabezado T18 de observaciones a **Empresa**. Se verificó que B122 sigue siendo **Tipo** y B123:B192 mantiene el desplegable Seguridad / Salud / Medio Ambiente, con celdas desbloqueadas. Datos, fórmulas, fotografías y demás hojas no cambiaron.
 
 La V14 reúne los cambios aprobados que quedaron separados al usar un adjunto anterior como base de V12. Para nuevas ediciones, conservar este conjunto completo; si el usuario aporta un archivo más reciente, cotejarlo y preservar sus cambios sin perder estas funcionalidades.
 
@@ -28,4 +30,4 @@ Se mantienen errores reales por HH negativas, valores no numéricos, semanas fue
 - Pruebas en memoria de carga de días, HH, decimales, ceros, blancos, HH negativas y tipo inválido. El total de HHT excluye las filas de días trabajados. Ningún valor de prueba se guardó en el entregable.
 - Validación OOXML de estilos y de las tres hojas relevantes; índices de estilos, destinos de relaciones e identificadores de tablas coherentes. No se reintroduce `xl/tables/table1.xml`.
 
-Microsoft Excel no está disponible en el entorno; las pruebas de apertura y cálculo se hicieron con un lector independiente. V12 y V13 quedan como antecedentes parciales; usar V14 integrada para continuar.
+Microsoft Excel no está disponible en el entorno; las pruebas de apertura y cálculo se hicieron con un lector independiente. V12 y V13 quedan como antecedentes parciales; usar V15 integrada para continuar.

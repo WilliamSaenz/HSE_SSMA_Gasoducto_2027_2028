@@ -1,6 +1,18 @@
 # Semanal Ducto — versión integrada vigente
 
-Archivo vigente: [Planilla_Semanal_Ducto_V15_INTEGRADA_EMPRESA.xlsx](Planilla_Semanal_Ducto_V15_INTEGRADA_EMPRESA.xlsx?raw=true).
+Archivo vigente: [Planilla_Semanal_Ducto_V16_FORMULAS_REPARADAS.xlsx](Planilla_Semanal_Ducto_V16_FORMULAS_REPARADAS.xlsx?raw=true).
+
+## Reparación de fórmulas V16
+
+El informe de recuperación de Excel de V15 identificó fórmulas y fórmulas compartidas en `xl/worksheets/sheet2.xml` (observaciones). La V16 convierte las 9.000 fórmulas compartidas de esa hoja en fórmulas individuales, sin metadatos de grupos compartidos. También elimina sus resultados almacenados y tipos de resultado heredados; el libro conserva el recálculo completo al abrir.
+
+La hoja queda con 22.500 fórmulas individuales: 4.500 de cada columna O, Q, V, X e Y. Todas pasaron el análisis sintáctico y la evaluación mediante Apache POI, sin errores nativos de fórmula. Se probó también que cambiar una fecha de cierre modifica correctamente los días abiertos de la tarjeta. Los textos de control sobre datos faltantes se mantienen: no se inventaron fechas ni clasificaciones.
+
+El único componente modificado del XLSX respecto de V15 es `xl/worksheets/sheet2.xml`. Sus 90.094 celdas constantes o vacías se conservaron, junto con estilos y formato. Las otras 77 hojas, fotografías, carga horizontal de días y HH, desplegable Tipo, encabezado Empresa y columnas ocultas son idénticos a V15. Se validó el esquema OOXML de la hoja y la ausencia de fórmulas compartidas y cadenas de cálculo obsoletas.
+
+La apertura y evaluación se comprobaron con un lector independiente; Microsoft Excel no está instalado en este entorno.
+
+## Antecedentes de la versión integrada
 
 La V15 conserva íntegra la V14 y cambia únicamente el encabezado T18 de observaciones a **Empresa**. Se verificó que B122 sigue siendo **Tipo** y B123:B192 mantiene el desplegable Seguridad / Salud / Medio Ambiente, con celdas desbloqueadas. Datos, fórmulas, fotografías y demás hojas no cambiaron.
 
@@ -30,4 +42,4 @@ Se mantienen errores reales por HH negativas, valores no numéricos, semanas fue
 - Pruebas en memoria de carga de días, HH, decimales, ceros, blancos, HH negativas y tipo inválido. El total de HHT excluye las filas de días trabajados. Ningún valor de prueba se guardó en el entregable.
 - Validación OOXML de estilos y de las tres hojas relevantes; índices de estilos, destinos de relaciones e identificadores de tablas coherentes. No se reintroduce `xl/tables/table1.xml`.
 
-Microsoft Excel no está disponible en el entorno; las pruebas de apertura y cálculo se hicieron con un lector independiente. V12 y V13 quedan como antecedentes parciales; usar V15 integrada para continuar.
+Microsoft Excel no está disponible en el entorno; las pruebas de apertura y cálculo se hicieron con un lector independiente. V12 y V13 quedan como antecedentes parciales; usar V16 integrada para continuar.

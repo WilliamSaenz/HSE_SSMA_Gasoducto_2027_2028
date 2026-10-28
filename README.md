@@ -5,7 +5,7 @@ KPIs_Plantillas_PPT
 
 ## Planilla semanal Ducto
 
-- [Descargar semanal integrado vigente V15](semanales/Planilla_Semanal_Ducto_V15_INTEGRADA_EMPRESA.xlsx?raw=true)
+- [Descargar semanal integrado vigente V16](semanales/Planilla_Semanal_Ducto_V16_FORMULAS_REPARADAS.xlsx?raw=true)
 - [Cambios conservados y comprobaciones](semanales/SEMANAL_DUCTO_VIGENTE.md)
 
 ## Informe de octubre 2026

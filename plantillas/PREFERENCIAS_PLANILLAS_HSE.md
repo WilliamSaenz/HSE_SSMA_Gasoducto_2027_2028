@@ -15,3 +15,5 @@ Aplicación actual: `Plantilla_KPIs_PC_V7_TARJETAS_LIBRE.xlsx`. La versión mens
 Aplicación Ducto: `Plantilla_KPIs_Ducto_V6_CORREGIDA_PROTEGIDA.xlsm`. Mantener el alcance **UT+SMP** del Ducto (UT: SICIM + VC), sin copiar el nombre OPS propio de la Planta. Tarjetas_Observacion ya existía y se conservó sin protección, con sus fórmulas y registros.
 
 Cabecera mensual Ducto (30/10/2026): suprimir el resumen visible de Datos!M1:W1; mover el vínculo de fotos de X1 a G1 sin eliminar columnas. Mantener los controles y sus referencias operativos en Control/_QA.
+
+Cabecera mensual Planta (30/10/2026): mover el enlace de fotos de W1 a G1. Al copiar Tarjetas_Observacion desde otro libro, revisar y sustituir referencias externas por la fuente local correspondiente; el contador de Planta usa Observaciones-SMP, no el libro Ducto. Mantener Tarjetas_Observacion sin protección.

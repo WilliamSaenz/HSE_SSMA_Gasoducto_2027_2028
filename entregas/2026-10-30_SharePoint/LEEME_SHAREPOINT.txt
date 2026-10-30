@@ -1,6 +1,6 @@
 PAQUETE DE CUATRO PLANILLAS PARA SHAREPOINT — 30/10/2026
 
-01_Mensual_Planta_PC.xlsx: mensual Planta, última entrega PC V7.
+01_Mensual_Planta_PC.xlsx: último adjunto Plantilla_KPIs_PC_TARJETAS_LIBRE.xlsx del usuario, corregido con fotos en G1 y sin el vínculo externo al Ducto.
 02_Mensual_Ducto.xlsm: última copia adjunta por el usuario, con el cambio solicitado de cabecera.
 03_Semanal_Planta_PC.xlsx: última copia semanal Planta editada por el usuario, conservada sin cambios.
 04_Semanal_Ducto.xlsx: última entrega semanal Ducto revisada en esta conversación.
@@ -10,7 +10,7 @@ VERIFICADO EN ESTOS CUATRO ARCHIVOS
 - Se mantienen los hipervínculos normales a carpetas/documentos y la navegación interna. No son vínculos de actualización de libros.
 - Los cuatro archivos son independientes: no necesitan una ruta local ni que otro de estos libros esté abierto para resolver sus fórmulas.
 - En mensual Ducto se quitó el resumen visible M1:W1 y el vínculo de fotos comienza en G1. No se eliminaron columnas. Los controles quedan en Control y _QA; 504 referencias de reporting se redirigieron para conservar el semáforo real.
-- La mensual Ducto pasó recálculo forzado sin errores de fórmula. Las otras tres planillas permanecen idénticas a las versiones indicadas.
+- La mensual Ducto pasó recálculo forzado sin errores de fórmula. La mensual Planta también pasó recálculo forzado sin errores de fórmula. Las dos semanales permanecen idénticas a las versiones indicadas.
 - Macros del XLSM preservadas byte por byte. Tarjetas_Observacion mantiene su estado de protección original de cada versión.
 
 CARGAR Y DESCARGAR
@@ -21,3 +21,5 @@ CARGAR Y DESCARGAR
 
 ALCANCE
 No se realizó una subida ni una descarga real desde SharePoint: el inicio de sesión no estuvo disponible. No se certifica el funcionamiento del sitio o sus permisos. La captura del aviso de libro vinculado no se reproduce por dependencias externas en estas cuatro copias; no se desactivaron avisos ni se ignoraron vínculos rotos para ocultarlo. Cualquier copia distinta o modificada debe revisarse por separado.
+
+ACTUALIZACIÓN PLANTA: se encontró un vínculo externo real en Tarjetas_Observacion!N4 al libro del Ducto. Se reemplazó por COUNTIFS sobre las fechas del registro local Observaciones-SMP, y se quitaron las partes y relaciones de ese vínculo externo. El resultado local de octubre es 3. La pestaña copiada se identificó como Planta Compresora, no Ducto; se corrigió el selector indicado a Datos!F1, su frente automático y la inclusión de todo el último día del mes. Los datos y los avisos de calidad originales siguen vigentes.

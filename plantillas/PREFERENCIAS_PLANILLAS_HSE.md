@@ -11,3 +11,5 @@ Confirmadas el 30/10/2026. Aplicar en futuras revisiones de las otras planillas 
 - La clave de protección fue suministrada por el usuario en la conversación. No guardarla en texto en este documento, en scripts publicados ni en descripciones.
 
 Aplicación actual: `Plantilla_KPIs_PC_V7_TARJETAS_LIBRE.xlsx`. La versión mensual previa no contenía Tarjetas_Observacion; en V7 se agregó vacía, sin protección, con encabezados para futura integración. No hay enlaces automáticos todavía.
+
+Aplicación Ducto: `Plantilla_KPIs_Ducto_V6_CORREGIDA_PROTEGIDA.xlsm`. Mantener el alcance **UT+SMP** del Ducto (UT: SICIM + VC), sin copiar el nombre OPS propio de la Planta. Tarjetas_Observacion ya existía y se conservó sin protección, con sus fórmulas y registros.

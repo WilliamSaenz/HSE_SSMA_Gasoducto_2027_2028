@@ -2,7 +2,7 @@ PAQUETE DE CUATRO PLANILLAS PARA SHAREPOINT — 30/10/2026
 
 01_Mensual_Planta_PC.xlsx: último adjunto Plantilla_KPIs_PC_TARJETAS_LIBRE.xlsx del usuario, corregido con fotos en G1 y sin el vínculo externo al Ducto.
 02_Mensual_Ducto.xlsm: última copia adjunta por el usuario, con el cambio solicitado de cabecera.
-03_Semanal_Planta_PC.xlsx: último BORRADOR_Semanal_Planta_C.xlsx del usuario, reparado según la nueva agrupación OPS/SMP; véase LEEME_SEMANAL_PLANTA_C_CORREGIDA_V2.md del repositorio.
+03_Semanal_Planta_PC.xlsx: último BORRADOR_Semanal_Planta_C.xlsx del usuario, reparado según la nueva agrupación OPS/SMP; véase LEEME_SEMANAL_PLANTA_C_CORREGIDA_V3.md del repositorio.
 04_Semanal_Ducto.xlsx: última entrega semanal Ducto revisada en esta conversación.
 
 VERIFICADO EN ESTOS CUATRO ARCHIVOS
@@ -27,3 +27,5 @@ ACTUALIZACIÓN PLANTA: se encontró un vínculo externo real en Tarjetas_Observa
 ACTUALIZACIÓN V3 DUCTO: se usa el último Mensual_Ducto.xlsm aportado por el usuario, optimizado para reducir búsquedas y recálculo global forzado al abrir. Se verificaron resultados antes/después y una carga nueva en copia temporal. Se conservaron datos, capacidad de filas, macros y protecciones. Véase plantillas/LEEME_MENSUAL_DUCTO_CORREGIDO_V2.md del repositorio para el detalle.
 
 ACTUALIZACIÓN V4 SEMANAL PLANTA: se repararon 60 referencias eliminadas, se ajustaron los controles a 26 campos, se retiraron registros de exportación obsoletos sin duplicar SMP y se limitan las tarjetas al mes seleccionado. Fechas corregidas y hoja 03_TARJETAS_OBSERVACION sin protección. Los datos pendientes mantienen sus avisos.
+
+ACTUALIZACIÓN V5: sustituye la semanal Planta V2 que Excel pidió reparar. Se eliminaron los grupos de fórmulas compartidas mediante expansión equivalente a fórmulas individuales. Se comprobaron 245.823 fórmulas y se repitió el recálculo independiente sin errores. Sin prueba directa en Microsoft Excel de escritorio.

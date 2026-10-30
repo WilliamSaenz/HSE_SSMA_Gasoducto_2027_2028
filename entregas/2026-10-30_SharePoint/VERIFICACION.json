@@ -9,8 +9,8 @@
     "macros": false
   },
   "02_Mensual_Ducto.xlsm": {
-    "bytes": 4172638,
-    "sha256": "e311034038b372ba46631fb5fdd0dad14fe204ae53d64c5893f212ed28505fe4",
+    "bytes": 3676152,
+    "sha256": "59ea7640dae8eba3bb7d1c9291b8f99cbca25218124651f854f8e66b379c1abd",
     "hojas": 64,
     "vinculos_a_libros_externos": 0,
     "conexiones_de_datos_externas": 0,

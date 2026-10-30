@@ -1,0 +1,38 @@
+{
+  "01_Mensual_Planta_PC.xlsx": {
+    "bytes": 1020316,
+    "sha256": "64509c1d52b21ef7eee87fbfbbf3a61f0b4ce843d1bf51b58d567c7b859ec95b",
+    "hojas": 61,
+    "vinculos_a_libros_externos": 0,
+    "conexiones_de_datos_externas": 0,
+    "hipervinculos_normales_conservados": 0,
+    "macros": false
+  },
+  "02_Mensual_Ducto.xlsm": {
+    "bytes": 4172638,
+    "sha256": "e311034038b372ba46631fb5fdd0dad14fe204ae53d64c5893f212ed28505fe4",
+    "hojas": 64,
+    "vinculos_a_libros_externos": 0,
+    "conexiones_de_datos_externas": 0,
+    "hipervinculos_normales_conservados": 0,
+    "macros": true
+  },
+  "03_Semanal_Planta_PC.xlsx": {
+    "bytes": 7335394,
+    "sha256": "63fc75539296887c07fb5f738f0f26575b1586c05e633ddbb622167ecc37ee41",
+    "hojas": 87,
+    "vinculos_a_libros_externos": 0,
+    "conexiones_de_datos_externas": 0,
+    "hipervinculos_normales_conservados": 43,
+    "macros": false
+  },
+  "04_Semanal_Ducto.xlsx": {
+    "bytes": 11068842,
+    "sha256": "01e9fa56440c54113b1c53f888e982d43a8fbe4d425f345c965353f2e665a15f",
+    "hojas": 78,
+    "vinculos_a_libros_externos": 0,
+    "conexiones_de_datos_externas": 0,
+    "hipervinculos_normales_conservados": 43,
+    "macros": false
+  }
+}

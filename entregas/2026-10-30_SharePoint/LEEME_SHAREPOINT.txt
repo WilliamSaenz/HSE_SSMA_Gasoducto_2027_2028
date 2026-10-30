@@ -2,7 +2,7 @@ PAQUETE DE CUATRO PLANILLAS PARA SHAREPOINT — 30/10/2026
 
 01_Mensual_Planta_PC.xlsx: último adjunto Plantilla_KPIs_PC_TARJETAS_LIBRE.xlsx del usuario, corregido con fotos en G1 y sin el vínculo externo al Ducto.
 02_Mensual_Ducto.xlsm: última copia adjunta por el usuario, con el cambio solicitado de cabecera.
-03_Semanal_Planta_PC.xlsx: última copia semanal Planta editada por el usuario, conservada sin cambios.
+03_Semanal_Planta_PC.xlsx: último BORRADOR_Semanal_Planta_C.xlsx del usuario, reparado según la nueva agrupación OPS/SMP; véase LEEME_SEMANAL_PLANTA_C_CORREGIDA_V2.md del repositorio.
 04_Semanal_Ducto.xlsx: última entrega semanal Ducto revisada en esta conversación.
 
 VERIFICADO EN ESTOS CUATRO ARCHIVOS
@@ -10,7 +10,7 @@ VERIFICADO EN ESTOS CUATRO ARCHIVOS
 - Se mantienen los hipervínculos normales a carpetas/documentos y la navegación interna. No son vínculos de actualización de libros.
 - Los cuatro archivos son independientes: no necesitan una ruta local ni que otro de estos libros esté abierto para resolver sus fórmulas.
 - En mensual Ducto se quitó el resumen visible M1:W1 y el vínculo de fotos comienza en G1. No se eliminaron columnas. Los controles quedan en Control y _QA; 504 referencias de reporting se redirigieron para conservar el semáforo real.
-- La mensual Ducto pasó recálculo forzado sin errores de fórmula. La mensual Planta también pasó recálculo forzado sin errores de fórmula. Las dos semanales permanecen idénticas a las versiones indicadas.
+- La mensual Ducto pasó recálculo forzado sin errores de fórmula. La mensual Planta también pasó recálculo forzado sin errores de fórmula. La semanal Planta pasó recálculo independiente sin errores de fórmula y pruebas de kilómetros y tarjetas; la semanal Ducto se conserva de la entrega anterior.
 - Macros del XLSM preservadas byte por byte. Tarjetas_Observacion mantiene su estado de protección original de cada versión.
 
 CARGAR Y DESCARGAR
@@ -25,3 +25,5 @@ No se realizó una subida ni una descarga real desde SharePoint: el inicio de se
 ACTUALIZACIÓN PLANTA: se encontró un vínculo externo real en Tarjetas_Observacion!N4 al libro del Ducto. Se reemplazó por COUNTIFS sobre las fechas del registro local Observaciones-SMP, y se quitaron las partes y relaciones de ese vínculo externo. El resultado local de octubre es 3. La pestaña copiada se identificó como Planta Compresora, no Ducto; se corrigió el selector indicado a Datos!F1, su frente automático y la inclusión de todo el último día del mes. Los datos y los avisos de calidad originales siguen vigentes.
 
 ACTUALIZACIÓN V3 DUCTO: se usa el último Mensual_Ducto.xlsm aportado por el usuario, optimizado para reducir búsquedas y recálculo global forzado al abrir. Se verificaron resultados antes/después y una carga nueva en copia temporal. Se conservaron datos, capacidad de filas, macros y protecciones. Véase plantillas/LEEME_MENSUAL_DUCTO_CORREGIDO_V2.md del repositorio para el detalle.
+
+ACTUALIZACIÓN V4 SEMANAL PLANTA: se repararon 60 referencias eliminadas, se ajustaron los controles a 26 campos, se retiraron registros de exportación obsoletos sin duplicar SMP y se limitan las tarjetas al mes seleccionado. Fechas corregidas y hoja 03_TARJETAS_OBSERVACION sin protección. Los datos pendientes mantienen sus avisos.
